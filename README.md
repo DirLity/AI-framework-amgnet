@@ -70,26 +70,26 @@ cylinder使用的min_nodes为20000
 
 #### x方向流速
 
-![airfoil_result_x](.\img\airfoil_result_x.png)
+![airfoil_result_x](./img/airfoil_result_x.png)
 
 #### y方向流速
 
-![airfoil_result_y](.\img\airfoil_result_y.png)
+![airfoil_result_y](./img/airfoil_result_y.png)
 
 #### 压力
 
-![airfoil_result_pressure](.\img\airfoil_result_pressure.png)
+![airfoil_result_pressure](./img/airfoil_result_pressure.png)
 
 ### Cylinder圆柱体数据集
 
 #### x方向流速
 
-![cylinder_result_x](.\img\cylinder_result_x.png)
+![cylinder_result_x](./img/cylinder_result_x.png)
 
 #### y方向流速
 
-![cylinder_result_y](.\img\cylinder_result_y.png)
+![cylinder_result_y](./img/cylinder_result_y.png)
 
 #### 压力
 
-![cylinder_result_pressure](.\img\cylinder_result_pressure.png)
+![cylinder_result_pressure](./img/cylinder_result_pressure.png)
